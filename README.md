@@ -1,3 +1,3 @@
-# Python-DICODING-BASIC-
+# For You Info
 
-This is basic Python documentation that i learn from Dicoding.com
+Python documentation from what i learn from Dicoding.com
