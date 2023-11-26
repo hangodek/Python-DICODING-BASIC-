@@ -1,0 +1,1 @@
+print('Dicoding'.center(10, '-'))

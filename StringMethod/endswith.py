@@ -1,0 +1,1 @@
+print('Dicoding Indonesia'.endswith('Dicoding'))

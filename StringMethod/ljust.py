@@ -1,0 +1,1 @@
+print('Dicoding'.ljust(20))
